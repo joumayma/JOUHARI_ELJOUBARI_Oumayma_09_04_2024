@@ -257,11 +257,6 @@ input:-webkit-autofill:focus {
   color: blue;
 }
 
-main {
-  display: flex;
-  justify-content: space-between;
-}
-
 /****** Hebergements And Populaires ***********/
 .hebergements-and-populaires {
   display: flex;
@@ -319,7 +314,7 @@ main {
 }
 
 .accommodation-section .border-picture:hover {
-  transform: scale(1.07);
+  transform: scale(1.07); 
   box-shadow: -2px 17px 17px -2px #626262;
 }
 
