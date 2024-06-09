@@ -258,7 +258,7 @@ input:-webkit-autofill:focus {
   color: blue;
 }
 
-/****** Hebergements And Populaires ***********/
+/****** Hebergements And Populaires **********/
 .hebergements-and-populaires {
   display: flex;
   justify-content: space-between;
